@@ -4,7 +4,7 @@
   "license": "MIT",
   "type": "module",
   "engines": {
-    "node": "18.x"
+    "node": "19.x"
   },
   "scripts": {
     "start": "node ./build/index.js",
